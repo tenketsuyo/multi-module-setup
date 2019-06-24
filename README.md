@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demonstrates using of component from another react module. In this example https://www.npmjs.com/package/test-dep-module.
 
 ## Available Scripts
 
